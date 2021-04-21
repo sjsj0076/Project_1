@@ -1,2 +1,3 @@
-# Project_1
-Test project
+#include <stdio.h>
+
+printf("Hello World!");
